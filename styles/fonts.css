@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "AKONY";
+    src: url("../assets/fonts/AKONY/AKONY.woff2") format("woff2");
+    font-style: normal;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+@font-face {
+    font-family: "Mazzard";
+    src: url("../assets/fonts/Mazzard/Mazzard.woff2") format('woff2');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Raleway";
+    src: url("../assets/fonts/Raleway/Raleway.woff2") format('.woff2');
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+}

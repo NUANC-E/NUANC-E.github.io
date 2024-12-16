@@ -1,0 +1,130 @@
+.grid-for-main-page {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.photo-2024 {
+    width: 100%;
+}
+
+.friend-find-button {
+    color: #E5E5E5;
+    background-color: #2CD381;
+    color: #E5E5E5;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding: 26px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.friend-find-button:hover {
+    cursor: pointer;
+}
+
+.standart-padding {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 0px;
+}
+
+.calendar {
+    
+    align-items: center;
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.current-event {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.event-image {
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+    object-position: 0 0;
+}
+
+.event-image-box {
+    position: relative;
+    width: 850px;
+    height: 350px;
+}
+
+
+.big-left-arrow {
+    position:absolute;
+    right: 817.5px;
+    bottom: 45%;
+    z-index: 10px;
+}
+.big-right-arrow {
+    position:absolute;
+    right: -32.5px;
+    bottom: 45%;
+    z-index: 10px;
+}
+
+.coming-events-grid, .events-categories-grid{
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    column-gap: 16px;
+    
+}
+
+.event-preview, .events-categorie-preview{
+    position: relative;
+}
+
+.coming-event-img {
+    width: 100%;
+    height: 100%;
+    max-width: 400px;
+    aspect-ratio: 2;
+    object-fit: cover;
+    object-position: center;
+}
+
+.сoming-events, .events-categories{
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 0px;
+    position: relative;
+}
+
+.events-categories {
+    padding-top: 10px;
+}
+
+.event-time-location {
+    color: #EFEFEF;
+    font-family: "Readex Pro";
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.event-name, .events-categorie-name{
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}

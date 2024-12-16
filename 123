@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MEETI</title>
+        <link rel="stylesheet" href="styles/fonts.css">
+
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="styles/general.css">
+        <link rel="stylesheet" href="styles/header.css">
+        <link rel="stylesheet" href="styles/video.css">
+        <link rel="stylesheet" href="styles/sidebar.css">
+    </head>
+
+    <body>
+        <div class="GlavnayaChetkie" style="width: 1440px; height: 1024px; position: relative; background: #F5FFD4">
+            <div class="Freimy" style="width: 1650.57px; height: 1322.99px; left: -113.09px; top: -358.09px; position: absolute">
+              <div class="Header2" style="width: 469.69px; height: 541.70px; left: 1180.88px; top: 0px; position: absolute; background: rgba(0, 105, 146, 0.30); border-radius: 284px"></div>
+              <div class="Header3" style="width: 683.14px; height: 683.14px; left: 813.85px; top: 639.85px; position: absolute; background: rgba(227, 220, 89, 0.80); border-radius: 163px"></div>
+              <div class="Header4" style="width: 716.73px; height: 451.91px; left: 780.78px; top: 758.78px; position: absolute; background: rgba(230, 118, 137, 0.80); border-radius: 163px"></div>
+              <div class="Header5" style="width: 469.69px; height: 541.70px; left: 0px; top: 286px; position: absolute; background: rgba(230, 118, 137, 0.30); border-radius: 284px"></div>
+            </div>
+            <div class="Rectangle111" style="width: 498px; height: 197px; left: 93px; top: 606px; position: absolute; background: #E67689; border-radius: 150px"></div>
+            <div class="Rectangle110" style="width: 498px; height: 197px; left: 93px; top: 606px; position: absolute; background: #E3DC59; border-radius: 150px"></div>
+            <div class="Frame71" style="width: 455px; height: 180px; padding: 50px; left: 114px; top: 614px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+              <div class="Voiti" style="flex: 1 1 0; align-self: stretch; padding: 10px; background: #12556B; border-radius: 100px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div class="IskatDruzei" style="text-align: center; color: #E5E5E5; font-size: 24px; font-family: Mazzard; font-weight: 600; word-wrap: break-word">Искать друзей</div>
+              </div>
+            </div>
+            <div class="Header6" style="width: 1440px; height: 100px; left: 0px; top: 0px; position: absolute; background: #E3DC59"></div>
+            <div class="Voiti2" style="width: 160px; height: 40px; padding: 10px; left: 1179.50px; top: 30px; position: absolute; background: #006992; border-radius: 150px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+              <div class="Voiti" style="text-align: center; color: #E3DC59; font-size: 24px; font-family: Mazzard; font-weight: 600; word-wrap: break-word">Войти</div>
+            </div>
+            <div class="TekstMenu" style="height: 58px; left: 260px; top: 21px; position: absolute; justify-content: flex-start; align-items: center; gap: 30px; display: inline-flex">
+              <div class="Frame1" style="padding: 10px; background: #EAF8BF; border-radius: 150px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                <div class="Glavnaya" style="width: 100px; text-align: center; color: black; font-size: 24px; font-family: Mazzard; font-weight: 600; word-wrap: break-word">Главная</div>
+              </div>
+              <div class="Frame3" style="padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                <div class="Meropriyatiya" style="text-align: center; color: black; font-size: 24px; font-family: Mazzard; font-weight: 600; word-wrap: break-word">Мероприятия</div>
+              </div>
+              <div class="Frame2" style="height: 48px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                <div class="Obshchenie" style="text-align: center; color: black; font-size: 24px; font-family: Mazzard; font-weight: 600; word-wrap: break-word">Общение</div>
+              </div>
+              <div class="Frame4" style="height: 48px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                <div class="Kluby" style="text-align: center; color: black; font-size: 24px; font-family: Mazzard; font-weight: 600; word-wrap: break-word">Клубы</div>
+              </div>
+            </div>
+            <div class="Poisk" style="width: 277px; height: 40px; left: 853px; top: 30px; position: absolute">
+              <div class="PoiskLiniya" style="width: 277px; height: 40px; left: 0px; top: 0px; position: absolute; background: #F5FFD4"></div>
+              <div class="Vector" style="width: 21.53px; height: 20px; left: 17.22px; top: 10.67px; position: absolute; background: rgba(0, 0, 0, 0.30)"></div>
+            </div>
+            <div class="Logo" style="width: 85px; height: 52.42px; left: 100px; top: 24px; position: absolute">
+              <div class="Vector2" style="width: 41.30px; height: 18.02px; left: 43.70px; top: 34.40px; position: absolute; background: #006992"></div>
+              <div class="Vector3" style="width: 9.94px; height: 25.27px; left: 27.72px; top: 10.10px; position: absolute; background: #006992"></div>
+              <div class="Vector4" style="width: 8.46px; height: 8.84px; left: 36.44px; top: 0px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: #006992"></div>
+              <div class="Vector5" style="width: 9.71px; height: 21.95px; left: 27.97px; top: 30.30px; position: absolute; background: #006992"></div>
+              <div class="Vector6" style="width: 18.92px; height: 22.71px; left: 15.85px; top: 11.08px; position: absolute; background: #006992"></div>
+              <div class="Vector7" style="width: 9.94px; height: 25.27px; left: 0.03px; top: 10.10px; position: absolute; background: #006992"></div>
+              <div class="Vector8" style="width: 8.46px; height: 8.84px; left: 1.24px; top: 0px; position: absolute; background: #006992"></div>
+              <div class="Vector9" style="width: 9.71px; height: 21.95px; left: 0px; top: 30.30px; position: absolute; background: #006992"></div>
+              <div class="Vector10" style="width: 18.93px; height: 22.71px; left: 2.90px; top: 11.08px; position: absolute; background: #006992"></div>
+            </div>
+            <div class="OsnovnoiTekst" style="width: 1266px; height: 235px; left: 75px; top: 170px; position: absolute">
+              <div class="BelyiTekst" style="left: 0px; top: 0px; position: absolute"><span style="color: #E67689; font-size: 40px; font-family: AKONY; font-weight: 700; word-wrap: break-word"> </span><span style="color: #E67689; font-size: 40px; font-family: AKONY; font-weight: 700; word-wrap: break-word">Найди</span><span style="color: #27476E; font-size: 40px; font-family: AKONY; font-weight: 700; word-wrap: break-word">           </span><span style="color: #E67689; font-size: 40px; font-family: AKONY; font-weight: 700; word-wrap: break-word">друзей <br/></span><span style="color: #E67689; font-size: 40px; font-family: AKONY; font-weight: 700; word-wrap: break-word"> </span><span style="color: #006992; font-size: 40px; font-family: AKONY; font-weight: 700; word-wrap: break-word">организуй</span><span style="color: #27476E; font-size: 40px; font-family: AKONY; font-weight: 700; word-wrap: break-word">     </span><span style="color: #006992; font-size: 40px; font-family: AKONY; font-weight: 700; word-wrap: break-word">мероприятия</span></div>
+              <div class="MyOkazyvaemPodderjkuVPoiskeDruzeiITovarishcheiSPomoshchUObshcheniyaIMeropriyatiiOrganizovannyhRaznymiLudMi" style="width: 684px; left: 25px; top: 121px; position: absolute; color: #27476E; font-size: 32px; font-family: Mazzard; font-weight: 500; word-wrap: break-word">Мы оказываем поддержку в поиске друзей и товарищей с помощью общения и мероприятий организованных разными людьми </div>
+            </div>
+            <img class="Photo202411122145521" style="width: 651px; height: 728px; left: 689px; top: 241px; position: absolute" src="https://via.placeholder.com/651x728" />
+          </div>
+    </body>
+</html>
